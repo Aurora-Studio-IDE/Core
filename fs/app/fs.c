@@ -950,5 +950,5 @@ int aurora_fs_core_main(int argc, char *argv[])
 
 	aurora_fs_core_cleanup();
 
-	return 1;
+	return 0;
 }
