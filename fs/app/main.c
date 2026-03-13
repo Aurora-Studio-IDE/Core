@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 
     if (argc > 1 && strcmp(argv[1], "egg") == 0)
     {
-        (void)printf("If C wasn't so fast, I would have written this in JavaScript.\n");
+        (void)printf("\nIf C wasn't so fast, I would have written this in JavaScript.\n\n");
         return 0;
     }
 
